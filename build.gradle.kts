@@ -15,7 +15,7 @@ plugins {
     `java-library`
     jacoco
     id("com.jfrog.bintray") version "1.8.5"
-    kotlin("jvm") version "1.6.0"
+    kotlin("jvm") version "1.9.10" // Update to the latest version
     id("info.solidsoft.pitest") version "1.7.0"
 }
 
